@@ -7,3 +7,4 @@ git commit
 勉強したぞ
 
 git remove
+git status
