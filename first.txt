@@ -1,3 +1,7 @@
 Gitの練習だよ
 変更するんだよHennkoじゃないよ変更だよ
 なんでうまくいかんねん
+
+git add
+git commit
+勉強したぞ
